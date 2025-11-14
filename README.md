@@ -38,6 +38,7 @@
 "python forca.py"
 
 📝 Exemplo de jogo:
+
 Palavra: _ _ _ _ _
 Tentativas restantes: 6
 Letras usadas: a, e
