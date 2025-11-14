@@ -30,7 +30,7 @@
 
 *2-* Clone este repositório:
 
-"git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git"
+"git clone https://github.com/PedroGasparin/Jogo-da-Forca.git"
 
 *3-* Acesse a pasta do projeto:
 
