@@ -34,7 +34,7 @@
 
 *3-* Acesse a pasta do projeto:
 
-"cd NOME_DO_REPOSITORIO"
+"cd Jogo-da-Forca "
 
 *4-* Execute o jogo:
 
