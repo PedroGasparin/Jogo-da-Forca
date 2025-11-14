@@ -29,18 +29,23 @@
 *1-* Certifique-se de ter o Python 3 instalado.
 
 *2-* Clone este repositório:
+
 "git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git"
 
 *3-* Acesse a pasta do projeto:
+
 "cd NOME_DO_REPOSITORIO"
 
 *4-* Execute o jogo:
+
 "python forca.py"
 
 📝 Exemplo de jogo:
 
 Palavra: _ _ _ _ _
+
 Tentativas restantes: 6
+
 Letras usadas: a, e
 
 Digite uma letra: 
